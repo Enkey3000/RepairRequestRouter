@@ -1,0 +1,109 @@
+request_id,text,category,urgency
+REQ-0001,A faucet is leaking under the kitchen sink.,plumbing,routine
+REQ-0002,Issue report: The bathroom toilet keeps running and will not stop.,plumbing,routine
+REQ-0003,Water is dripping from the pipe near the utility closet.,plumbing,routine
+REQ-0004,A drain is clogged and water is backing up in the shower.,plumbing,priority
+REQ-0005,Please help: A faucet is leaking under the kitchen sink. Please inspect it today.,plumbing,routine
+REQ-0006,The bathroom toilet keeps running and will not stop.,plumbing,routine
+REQ-0007,Water is dripping from the pipe near the utility closet.,plumbing,priority
+REQ-0008,Work order: A drain is clogged and water is backing up in the shower.,plumbing,priority
+REQ-0009,A faucet is leaking under the kitchen sink.,plumbing,routine
+REQ-0010,The bathroom toilet keeps running and will not stop. Please inspect it today.,plumbing,routine
+REQ-0011,Maintenance needed: Water is dripping from the pipe near the utility closet.,plumbing,routine
+REQ-0012,A drain is clogged and water is backing up in the shower.,plumbing,priority
+REQ-0013,A faucet is leaking under the kitchen sink.,plumbing,routine
+REQ-0014,Work order: The bathroom toilet keeps running and will not stop.,plumbing,priority
+REQ-0015,Water is dripping from the pipe near the utility closet. Please inspect it today.,plumbing,routine
+REQ-0016,A drain is clogged and water is backing up in the shower.,plumbing,priority
+REQ-0017,Issue report: A faucet is leaking under the kitchen sink.,plumbing,routine
+REQ-0018,The bathroom toilet keeps running and will not stop.,plumbing,routine
+REQ-0019,An outlet in the office is not supplying power.,electrical,routine
+REQ-0020,Please help: A ceiling light flickers whenever it is switched on.,electrical,routine
+REQ-0021,The circuit breaker trips repeatedly under normal use.,electrical,routine
+REQ-0022,A wall switch feels warm and has started buzzing.,electrical,priority
+REQ-0023,Work order: An outlet in the office is not supplying power. Please inspect it today.,electrical,routine
+REQ-0024,A ceiling light flickers whenever it is switched on.,electrical,routine
+REQ-0025,The circuit breaker trips repeatedly under normal use.,electrical,priority
+REQ-0026,Work order: A wall switch feels warm and has started buzzing.,electrical,priority
+REQ-0027,An outlet in the office is not supplying power.,electrical,routine
+REQ-0028,A ceiling light flickers whenever it is switched on. Please inspect it today.,electrical,routine
+REQ-0029,Maintenance needed: The circuit breaker trips repeatedly under normal use.,electrical,routine
+REQ-0030,A wall switch feels warm and has started buzzing.,electrical,priority
+REQ-0031,An outlet in the office is not supplying power.,electrical,routine
+REQ-0032,Work order: A ceiling light flickers whenever it is switched on.,electrical,priority
+REQ-0033,The circuit breaker trips repeatedly under normal use. Please inspect it today.,electrical,routine
+REQ-0034,A wall switch feels warm and has started buzzing.,electrical,priority
+REQ-0035,Please help: An outlet in the office is not supplying power.,electrical,routine
+REQ-0036,A ceiling light flickers whenever it is switched on.,electrical,routine
+REQ-0037,The heating system is blowing cold air into the classroom.,hvac,routine
+REQ-0038,Please help: A room thermostat is not controlling the air temperature.,hvac,routine
+REQ-0039,The ventilation fan makes a loud rattling noise.,hvac,routine
+REQ-0040,The air conditioning unit is leaking and not cooling.,hvac,priority
+REQ-0041,Issue report: The heating system is blowing cold air into the classroom. Please inspect it today.,hvac,routine
+REQ-0042,A room thermostat is not controlling the air temperature.,hvac,routine
+REQ-0043,The ventilation fan makes a loud rattling noise.,hvac,priority
+REQ-0044,Work order: The air conditioning unit is leaking and not cooling.,hvac,priority
+REQ-0045,The heating system is blowing cold air into the classroom.,hvac,routine
+REQ-0046,A room thermostat is not controlling the air temperature. Please inspect it today.,hvac,routine
+REQ-0047,Please help: The ventilation fan makes a loud rattling noise.,hvac,routine
+REQ-0048,The air conditioning unit is leaking and not cooling.,hvac,priority
+REQ-0049,The heating system is blowing cold air into the classroom.,hvac,routine
+REQ-0050,Work order: A room thermostat is not controlling the air temperature.,hvac,priority
+REQ-0051,The ventilation fan makes a loud rattling noise. Please inspect it today.,hvac,routine
+REQ-0052,The air conditioning unit is leaking and not cooling.,hvac,priority
+REQ-0053,Issue report: The heating system is blowing cold air into the classroom.,hvac,routine
+REQ-0054,A room thermostat is not controlling the air temperature.,hvac,routine
+REQ-0055,The breakroom refrigerator is not keeping food cold.,appliance,routine
+REQ-0056,Work order: The dishwasher does not drain after a wash cycle.,appliance,routine
+REQ-0057,A microwave display turns on but the unit will not heat.,appliance,routine
+REQ-0058,The laundry dryer stops before the clothes are dry.,appliance,priority
+REQ-0059,Work order: The breakroom refrigerator is not keeping food cold. Please inspect it today.,appliance,routine
+REQ-0060,The dishwasher does not drain after a wash cycle.,appliance,routine
+REQ-0061,A microwave display turns on but the unit will not heat.,appliance,priority
+REQ-0062,Work order: The laundry dryer stops before the clothes are dry.,appliance,priority
+REQ-0063,The breakroom refrigerator is not keeping food cold.,appliance,routine
+REQ-0064,The dishwasher does not drain after a wash cycle. Please inspect it today.,appliance,routine
+REQ-0065,Maintenance needed: A microwave display turns on but the unit will not heat.,appliance,routine
+REQ-0066,The laundry dryer stops before the clothes are dry.,appliance,priority
+REQ-0067,The breakroom refrigerator is not keeping food cold.,appliance,routine
+REQ-0068,Please help: The dishwasher does not drain after a wash cycle.,appliance,priority
+REQ-0069,A microwave display turns on but the unit will not heat. Please inspect it today.,appliance,routine
+REQ-0070,The laundry dryer stops before the clothes are dry.,appliance,priority
+REQ-0071,Issue report: The breakroom refrigerator is not keeping food cold.,appliance,routine
+REQ-0072,The dishwasher does not drain after a wash cycle.,appliance,routine
+REQ-0073,There is a cracked tile in the main hallway.,structural,routine
+REQ-0074,Maintenance needed: A door does not close and the frame appears warped.,structural,routine
+REQ-0075,A ceiling panel has become loose above the desk.,structural,routine
+REQ-0076,The stair handrail moves when someone holds it.,structural,priority
+REQ-0077,Please help: There is a cracked tile in the main hallway. Please inspect it today.,structural,routine
+REQ-0078,A door does not close and the frame appears warped.,structural,routine
+REQ-0079,A ceiling panel has become loose above the desk.,structural,priority
+REQ-0080,Work order: The stair handrail moves when someone holds it.,structural,priority
+REQ-0081,There is a cracked tile in the main hallway.,structural,routine
+REQ-0082,A door does not close and the frame appears warped. Please inspect it today.,structural,routine
+REQ-0083,Issue report: A ceiling panel has become loose above the desk.,structural,routine
+REQ-0084,The stair handrail moves when someone holds it.,structural,priority
+REQ-0085,There is a cracked tile in the main hallway.,structural,routine
+REQ-0086,Issue report: A door does not close and the frame appears warped.,structural,priority
+REQ-0087,A ceiling panel has become loose above the desk. Please inspect it today.,structural,routine
+REQ-0088,The stair handrail moves when someone holds it.,structural,priority
+REQ-0089,Maintenance needed: There is a cracked tile in the main hallway.,structural,routine
+REQ-0090,A door does not close and the frame appears warped.,structural,routine
+REQ-0091,A strong smoke smell is coming from an electrical panel.,safety,emergency
+REQ-0092,Maintenance needed: Smoke is visible near the storage room and the area should be evacuated.,safety,emergency
+REQ-0093,Water is pooling beneath exposed wiring in the corridor.,safety,emergency
+REQ-0094,A carbon monoxide alarm is sounding in the occupied building.,safety,emergency
+REQ-0095,Please help: A strong smoke smell is coming from an electrical panel. Please inspect it today.,safety,emergency
+REQ-0096,Smoke is visible near the storage room and the area should be evacuated.,safety,emergency
+REQ-0097,Water is pooling beneath exposed wiring in the corridor.,safety,emergency
+REQ-0098,Maintenance needed: A carbon monoxide alarm is sounding in the occupied building.,safety,emergency
+REQ-0099,A strong smoke smell is coming from an electrical panel.,safety,emergency
+REQ-0100,Smoke is visible near the storage room and the area should be evacuated. Please inspect it today.,safety,emergency
+REQ-0101,Issue report: Water is pooling beneath exposed wiring in the corridor.,safety,emergency
+REQ-0102,A carbon monoxide alarm is sounding in the occupied building.,safety,emergency
+REQ-0103,A strong smoke smell is coming from an electrical panel.,safety,emergency
+REQ-0104,Issue report: Smoke is visible near the storage room and the area should be evacuated.,safety,emergency
+REQ-0105,Water is pooling beneath exposed wiring in the corridor. Please inspect it today.,safety,emergency
+REQ-0106,A carbon monoxide alarm is sounding in the occupied building.,safety,emergency
+REQ-0107,Please help: A strong smoke smell is coming from an electrical panel.,safety,emergency
+REQ-0108,Smoke is visible near the storage room and the area should be evacuated.,safety,emergency
